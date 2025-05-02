@@ -1,1 +1,5 @@
-ubuntu->
+ubuntu->wsl no microsoft store
+sudo apt update
+sudo apt upgrade
+sudo apt install g++
+sudo apt install make
